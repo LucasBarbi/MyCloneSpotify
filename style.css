@@ -89,6 +89,11 @@
     font-weight: bold;
 }
 
+.showcase .showcase-container .btn-primary:hover{
+    background-color: #369647;
+    color: white;
+}
+
 #footer{
     background: black;
     color: white;
